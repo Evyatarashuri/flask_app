@@ -13,7 +13,6 @@
 
 ## Postman API Requests - Example 1
 ![postmanAPI1](photos/photo1.png)
-*Example of a GET request to fetch data.*
 
 ## Postman API Requests - Example 2
 ![postmanAPI2](photos/photo4.png)
